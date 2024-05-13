@@ -28,5 +28,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalo-cordoba&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalo-cordoba&repo=github-readme-stats)](https://github.com/gonzalo-cordoba/github-readme-stats)
-
