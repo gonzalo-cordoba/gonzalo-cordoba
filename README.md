@@ -23,8 +23,8 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/gonzalocordob"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn_-GonzaloCordoba-blue?style=flat-square&logo=linkedin&color=%230A66C2"></a>
-<a href="cordobagonzalosr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail_-GonzaloCordoba-blue?style=flat-square&logo=gmail&color=%23EA4335"></a>  
+<a href="https://www.linkedin.com/in/gonzalocordob"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn_-GonzaloCordoba-blue?style=flat-square&logo=linkedin&color=%230A66C2" target="_blank"></a>
+<a href="cordobagonzalosr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail_-GonzaloCordoba-blue?style=flat-square&logo=gmail&color=%23EA4335" target="_blank"></a>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalo-cordoba&show_icons=true&theme=tokyonight)
 
